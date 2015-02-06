@@ -1,7 +1,7 @@
 Summary:	Xt / Motif OpenGL widgets
 Name:		glw
 Version:	8.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		System/Libraries
 Url:		http://www.mesa3d.org
