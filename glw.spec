@@ -4,7 +4,7 @@ Version:	8.0.0
 Release:	2
 License:	MIT
 Group:		System/Libraries
-Url:		http://www.mesa3d.org
+Url:		https://www.mesa3d.org
 Source0:	ftp://ftp.freedesktop.org/pub/mesa/%{name}/%{name}-%{version}.tar.bz2
 BuildRequires:	lesstif-devel
 BuildRequires:	pkgconfig(gl)
