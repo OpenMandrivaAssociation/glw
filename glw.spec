@@ -6,6 +6,11 @@ License:	MIT
 Group:		System/Libraries
 Url:		https://www.mesa3d.org
 Source0:	ftp://ftp.freedesktop.org/pub/mesa/%{name}/%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	lesstif-devel
 BuildRequires:	pkgconfig(gl)
 BuildRequires:	pkgconfig(x11)
